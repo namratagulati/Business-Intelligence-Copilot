@@ -24,9 +24,6 @@ An AI-powered predictive analytics dashboard built using Python, Streamlit, Mach
 - Pandas
 - Scikit-learn
 - Plotly
-- OpenRouter API
-- Mistral LLM
-
 ---
 
 # Machine Learning Workflow
